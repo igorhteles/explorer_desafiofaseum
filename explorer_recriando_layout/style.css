@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+}
+
+#content {
+    margin: 64px auto;
+    display: flex;
+    width: 1024px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#img1 {
+    margin-bottom: 32px;
+    width: 350px;
+    height: 238px;
+}
+
+h1 {
+    margin-bottom: 16px;
+    width: 494px;
+    color: #3F3D56;
+    font-family: Dosis;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+#text1 {
+    color: #828282;
+    font-family: Open Sans;
+    line-height: 22px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#text1 span {
+    color: #828282;
+    font-weight: bold;
+}
+
+#text1 strong {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+#text2 {
+    width: 626px;
+    height: 21px;
+    margin-top: 32px;
+    color: #828282;
+    font-family: Open Sans;
+    line-height: 22px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.line {
+    width: 391px;
+    border: 1px solid #ECEFF2;
+    margin: 64px auto 16px;
+}
+
+#menu_footer {
+    margin-bottom: 40px;
+    color: #3F3D56;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    word-spacing: 42px;
+}
+
+#wave {
+    width: 1024px;
+    height: 104px;
